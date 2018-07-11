@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Dropbox.Api.dll
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Dropbox.Api.xml
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb

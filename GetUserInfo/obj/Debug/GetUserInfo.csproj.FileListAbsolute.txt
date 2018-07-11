@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Dropbox.Api.dll
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Dropbox.Api.xml
+c:\users\dell\documents\visual studio 2017\Projects\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\bin\Debug\GetUserInfo.exe.config
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\bin\Debug\GetUserInfo.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\bin\Debug\GetUserInfo.pdb
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\obj\Debug\GetUserInfo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\obj\Debug\GetUserInfo.exe
+C:\Users\Dell\Documents\Visual Studio 2017\Projects\Tutorial\Tutorial\obj\Debug\GetUserInfo.pdb
